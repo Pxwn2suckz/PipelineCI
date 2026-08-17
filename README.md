@@ -7,6 +7,8 @@ git clone
 |
 |
 npm install
+|
+|
 npm test
 
 :3
