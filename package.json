@@ -1,0 +1,19 @@
+{
+  "name": "sum-project",
+  "version": "1.0.0",
+  "description": "Simple project to test sum function",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "jest": {
+    "testMatch": [
+      "**/SumTest.js"
+    ]
+  },
+  "author": "",
+  "license": "ISC"
+}
